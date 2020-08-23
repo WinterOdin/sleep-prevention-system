@@ -1,1 +1,2 @@
 # sleep-prevention-system
+This app detects state of your eye and based on that input can trigger an action. The idea behind this project is if you are sleepy or you are starting to falling asleep your eye stays closed for longer periods of time, this app will be timing those periods and if consecutive perioids are longer from each other (in some span of time) the app will trigger the relay to electric shock you
